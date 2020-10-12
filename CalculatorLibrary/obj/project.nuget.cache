@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s2asElVe6a+aTGivLHMEJc8OPhKWIOWdmV5yRflKYbVqGHEtCQ9puiNCAnAgeMgygbhBDSRNVcb7dk0udMKUrQ==",
+  "success": true,
+  "projectFilePath": "/Users/walia/Projects/Calculator/CalculatorLibrary/CalculatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/walia/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
